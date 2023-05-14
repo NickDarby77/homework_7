@@ -66,14 +66,14 @@ print(s.round()); print('ваша сумма выше'); */
     print('Сумма чисел кратных 17ти - $sum'); */
 
 // task 10
-  /* int sum = 0;
+  int sum = 0;
   print('Введите n число');
   int n = int.parse(stdin.readLineSync()!);
 
   for (int i = 1; i <= n; i++){
   sum = sum + i * i; // sum += i * i;
   print(i);
-  //print(sum);
+  print(sum);
   }
-print('сумма квадратов чисел = $sum'); */
+print('сумма квадратов чисел = $sum');
 }
