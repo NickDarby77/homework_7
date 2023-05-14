@@ -66,8 +66,7 @@ print(s.round()); print('ваша сумма выше'); */
     print('Сумма чисел кратных 17ти - $sum'); */
 
 // task 10
-  print('Hello World, this is my first Repository in Github and I am very excited, Thank you for your support');
-  int sum = 0;
+  /* int sum = 0;
   print('Введите n число');
   int n = int.parse(stdin.readLineSync()!);
 
@@ -76,6 +75,6 @@ print(s.round()); print('ваша сумма выше'); */
   print(i);
   print(sum);
   }
-print('сумма квадратов чисел = $sum');
+print('сумма квадратов чисел = $sum'); */
 
 }
